@@ -1,0 +1,32 @@
+
+.Anchor {
+    -fx-background-image:url("../img/email_1.jpg");
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-size: cover;
+    
+   
+}
+
+.image{
+    -fx-effect: dropshadow( gaussian, rgba(0, 0, 0, 0.4), 10, 0.5, 0.0, 0.0 );
+
+  
+}
+
+.fonte{
+  
+    -fx-text-fill: white;
+   
+}
+
+.botao{
+       -fx-effect: dropshadow( gaussian, rgba(0, 0, 0, 0.4), 10, 0.5, 0.0, 0.0 );
+}
+
+.aredaDeTexto{
+   
+    -fx-background: rgba(0, 0, 0, 0.4);
+     -fx-text-fill: white;
+}
+
